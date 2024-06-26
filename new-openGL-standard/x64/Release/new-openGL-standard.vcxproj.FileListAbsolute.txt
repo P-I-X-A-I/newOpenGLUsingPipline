@@ -1,0 +1,4 @@
+C:\Users\wtnbks\Desktop\development\PROJECT\230925-new-openGL-standard\new-openGL-standard\x64\Release\new-openGL-standard.exe
+D:\ワークエリア\230925-new-openGL-standard\new-openGL-standard\x64\Release\new-openGL-standard.exe
+E:\ワークエリア\230925-new-openGL-standard\new-openGL-standard\x64\Release\new-openGL-standard.exe
+D:\仕事2021以降\ワークエリア\230925-new-openGL-standard\new-openGL-standard\x64\Release\new-openGL-standard.exe
